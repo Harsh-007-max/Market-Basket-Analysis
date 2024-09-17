@@ -1,0 +1,6 @@
+whole milk -> yogurt lift: 1.57 confidence: 1.57
+yogurt -> whole milk lift: 1.57 confidence: 1.57
+whole milk -> other vegetables lift: 1.51 confidence: 1.51
+other vegetables -> whole milk lift: 1.51 confidence: 1.51
+whole milk -> rolls/buns lift: 1.21 confidence: 1.21
+rolls/buns -> whole milk lift: 1.21 confidence: 1.21
